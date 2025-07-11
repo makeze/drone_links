@@ -1,12 +1,20 @@
-# My Awesome Project
+# Vilni De Ua
 
-Welcome! Here are some important links related to this project.
+### Посилання на ресурси з Презентації
 
-## 🚀 Main Application
-[Click here to see the live demo](https://your-username.github.io/your-repo-name/)
+---
 
-## 📚 Project Documentation
-[Read the full documentation here](https://link-to-your-documentation.com)
+## 🤝 Долучайтесь до групи Соціальний Дрон
+[Посилання на групу](https://sdua.tech/request)
 
-## 💼 My Portfolio
-[Check out my other work](https://your-username.github.io)
+## 📚 Інструкція
+[Переглянути інструкцію](https://base.sdua.tech/docs/intro/)
+
+## 🛒 🇺🇦 Swarm Army для України: закупівля деталей
+[Посилання для закупівлі в Україні](https://swarm.army/)
+
+## 🛒 🇩🇪 Swarm Army для Німеччини: закупівля деталей
+[Посилання для закупівлі в Німеччині](https://goods.ua-drones.de/)
+
+## 🌐 Наш веб-сайт та медіа
+[Vilni.de](https://vilni.de)
